@@ -11,7 +11,8 @@ A production-ready Laravel Eloquent learning repository.
 | 03 | [Retrieving Data](./lessons/lesson-03-retrieving-data/README.md) | ✅ |
 | 04 | [Advanced Filtering](./lessons/lesson-04-advanced-filtering/README.md) | ✅ |
 | 05 | [Ordering, Limiting & Pagination](./lessons/lesson-05-ordering-limiting-pagination/README.md) | ✅ |
-| 06 | Relationships | ⏳ |
-| 07 | Eager Loading | ⏳ |
-| 08 | Aggregates | ⏳ |
-| 09 | Query Scopes | ⏳ |
+| 06 | [Model Vs Eloquent](./lessons/lesson-laravel-note-model-vs-eloquent/README.md) | ✅ |
+| 07 | Relationships | ⏳ |
+| 08 | Eager Loading | ⏳ |
+| 09 | Aggregates | ⏳ |
+| 10 | Query Scopes | ⏳ |
