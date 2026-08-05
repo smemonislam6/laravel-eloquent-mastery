@@ -15,6 +15,7 @@ A production-ready Laravel Eloquent learning repository.
 | 07 | [Laravel Hack #02 — Model Object vs Collection](./lessons/lesson-laravel-note-model-object-vs-collection/README.md) | ✅ |
 | 08 | [Laravel Hack #03 — all() vs get()](./lessons/lesson-laravel-note-all-vs-get/README.md) | ✅ |
 | 09 | [Laravel Hack #04 — first() vs find()](./lessons/lesson-laravel-note-first-vs-find/README.md) | ✅ |
+| 10 | [Laravel Hack #05 — latest() vs orderBy()](./lessons/lesson-laravel-note-latest-vs-orderby/README.md) | ✅ |
 | 13 | Relationships  | ⏳ |
 | 14 | Eager Loading | ⏳ |
 | 15 | Aggregates | ⏳ |
