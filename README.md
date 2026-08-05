@@ -13,7 +13,8 @@ A production-ready Laravel Eloquent learning repository.
 | 05 | [Ordering, Limiting & Pagination](./lessons/lesson-05-ordering-limiting-pagination/README.md) | ✅ |
 | 06 | [Model Vs Eloquent](./lessons/lesson-laravel-note-model-vs-eloquent/README.md) | ✅ |
 | 07 | [Model Object Vs Collection](./lessons/lesson-laravel-note-model-object-vs-collection/README.md) | ✅ |
-| 07 | Relationships  | ⏳ |
-| 13 | Eager Loading | ⏳ |
-| 14 | Aggregates | ⏳ |
-| 15 | Query Scopes | ⏳ |
+| 08 | [all() Vs get()](./lessons/lesson-laravel-note-all-vs-get/README.md) | ✅ |
+| 13 | Relationships  | ⏳ |
+| 14 | Eager Loading | ⏳ |
+| 15 | Aggregates | ⏳ |
+| 16 | Query Scopes | ⏳ |
