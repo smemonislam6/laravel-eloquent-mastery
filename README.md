@@ -16,7 +16,7 @@ A production-ready Laravel Eloquent learning repository.
 | 08 | [Laravel Hack #03 — all() vs get()](./lessons/lesson-laravel-note-all-vs-get/README.md) | ✅ |
 | 09 | [Laravel Hack #04 — first() vs find()](./lessons/lesson-laravel-note-first-vs-find/README.md) | ✅ |
 | 10 | [Laravel Hack #05 — latest() vs orderBy()](./lessons/lesson-laravel-note-latest-vs-orderby/README.md) | ✅ |
-| 10 | [Laravel Hack #06 — paginate() vs simplePaginate() vs cursorPaginate()](./lessons/lesson-laravel-note-pagination-simplePagiantion-cursorPagination/README.md) | ✅ |
+| 11 | [Laravel Hack #06 — paginate() vs simplePaginate() vs cursorPaginate()](./lessons/lesson-laravel-note-pagination-simplePagiantion-cursorPagination/README.md) | ✅ |
 | 12 | Relationships  | ⏳ |
 | 13 | Eager Loading | ⏳ |
 | 14 | Aggregates | ⏳ |
