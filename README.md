@@ -18,8 +18,9 @@ A production-ready Laravel Eloquent learning repository.
 | 10 | [Laravel Hack #05 — latest() vs orderBy()](./lessons/lesson-laravel-hack-05-latest-vs-orderby/README.md) | ✅ |
 | 11 | [Laravel Hack #06 — paginate() vs simplePaginate() vs cursorPaginate()](./lessons/lesson-laravel-hack-06-pagination-simplePagiantion-cursorPagination/README.md) | ✅ |
 | 12 | [Laravel Hack #07 — value() vs pluck()](./lessons/lesson-laravel-hack-07-value-vs-pluck/README.md) | ✅ |
-| 13 | [Laravel Hack #08 — exists() vs count()](./lessons/lesson-laravel-hack-08-exists-vs-count/README.md) | ✅ |
-| 12 | Relationships  | ⏳ |
-| 13 | Eager Loading | ⏳ |
-| 14 | Aggregates | ⏳ |
-| 15 | Query Scopes | ⏳ |
+| 13 | [Laravel Hack #08 — exists() vs count()](./lessons/lesson-laravel-hack-08-exists-vs-count/README.md) | ✅ || 
+14 | [Laravel Practice Questions & Interview Challenges](./lessons/lesson-practice-questions-interview-challenges/README.md) | ✅ |
+| 15 | Relationships  | ⏳ |
+| 16 | Eager Loading | ⏳ |
+| 17 | Aggregates | ⏳ |
+| 18 | Query Scopes | ⏳ |
